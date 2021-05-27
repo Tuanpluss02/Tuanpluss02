@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tuanpluss02
 - 👀 I’m interested in C\C++ ,Java and Python language
 - 🌱 I’m currently learning C language
+- ✔  I'm Storm_X
 -   ¯\_(ツ)_/¯¯\_(ツ)_/¯¯\_(ツ)_/¯
 
 <!---
