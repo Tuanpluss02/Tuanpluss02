@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tuanpluss02
-- 👀 I’m interested in C\C++ language
+- 👀 I’m interested in C\C++ ,Java and Python language
 - 🌱 I’m currently learning C language
 -   ¯\_(ツ)_/¯¯\_(ツ)_/¯¯\_(ツ)_/¯
 
