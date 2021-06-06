@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tuanpluss02
+# 👋 Hi there, I’m **_Tuan Do_**
 - 👀 I’m interested in C\C++ ,Java and Python language
 - 🌱 I’m currently learning C language
 - ✔  I'm Storm_X
