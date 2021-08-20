@@ -2,7 +2,7 @@
 - 👀 **I’m interested in C\C++ ,Java and Python language.**
 - 🌱 **I’m currently learning everything.**
 - ✔  **I'm Storm_X.**
-- ✌ **This is my website** [http://stormx.tech](https://www.stormx.teh/)
+- ✌ **This is my website** [http://stormx.tech](https://www.stormx.tech/)
  ### ![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuanpluss02&show_icons=true&theme=radical)
  ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanpluss02&layout=compact)](https://github.com/Tuanpluss02/github-readme-stats)
  ## 🎉Join our Discord server
