@@ -1,17 +1,56 @@
-# 👋 Hi there, I’m `Tuân Đỗ`
+<h1 align="center">Hey, Tuan Do here</h1>
+<h3 align="center">Tuan to work as a Developer</h3>
+<br/>
+## 🙋‍♂️ About Me
+
 - 👀 **I’m interested in C\C++ ,Java and Python language.**
 - 🌱 **I’m currently learning everything.**
 - ✔  **I'm Storm_X.**
 - ✌ **This is my website** [http://stormx.tech](https://www.stormx.tech/)
- ### ![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuanpluss02&show_icons=true&theme=radical)
- ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanpluss02&layout=compact)](https://github.com/Tuanpluss02/github-readme-stats)
- ## 🎉Join our Discord server
- [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/82562559/121124764-a7e97a80-c84f-11eb-92e9-984f3934f5b0.png)
-](http://www.youtube.com/watch?v=Yfq0HXhbzwA)
+
+## 🚀 Languages and Tools:
+
+<p align="center">
+     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+       <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ </p>
+<br/>
 
 
+<p align="center">
+    <a href="https://github.com/Tuanpluss02/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tuan Plus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tuanpluss02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+<p align="center"><a href="https://github.com/vipulchaudhary16/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /></a></p>
+
+<br/>
 
 
+<p align="center">
+    <a href="https://github.com/vipulchaudhary16/github-readme-stats"><img alt="Vipul Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulchaudhary16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+<br/>
+
+
+## 🤝Connect with me:
+
+<p align="center">
+     <a href="https://www.linkedin.com/in/tuanpluss02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanpluss02" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15892425/tuan-plus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15892425" height="30" width="40" /></a>    
+<a href="https://twitter.com/TunPlus3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TunPlus3" height="30" width="40" /></a>    
+<a href="https://www.facebook.com/tuanpluss.stormX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanpluss.stormX" height="30" width="40" /></a>    
+<a href="https://www.instagram.com/tuanpluss02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuanpluss02" height="30" width="40" /></a>
+</p>
 
 
 <!---
