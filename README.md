@@ -1,5 +1,5 @@
-<h1 align="center">Hey, Tuan Do here</h1>
-<h3 align="center">Tuan to work as a Developer</h3>
+<h1 align="center">Hi, I'm Tuan Do</h1>
+<h3 align="center">I'm trying to be a Developer</h3>
 <br/>
 
 ## 🙋‍♂️ About Me
