@@ -30,13 +30,13 @@
 ## 📊 My Github Stats
 
   <br/>
-<p align="center"><a href="https://github.com/vipulchaudhary16/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /></a></p>
+<p align="center"><a href="https://github.com/Tuanpluss02/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Tuanpluss02&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Tuan Plus's Github Stats" /></a></p>
 
 <br/>
 
 
 <p align="center">
-    <a href="https://github.com/vipulchaudhary16/github-readme-stats"><img alt="Vipul Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulchaudhary16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Tuanpluss02/github-readme-stats"><img alt="Tuan Plus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanpluss02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br/>
