@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 👀 **I’m interested in C\C++ ,Java and Python language.**
+- 💻 **I'm Storm_X.**
+- 👀 **I’m interested in C\C++, Kotlin and Python language.**
 - 🌱 **I’m currently learning everything.**
-- ✔  **I'm Storm_X.**
 - ✌ **This is my website** [http://stormx.tech](https://www.stormx.tech/)
 
 ## 🚀 Languages and Tools:
