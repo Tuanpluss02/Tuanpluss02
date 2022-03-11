@@ -53,9 +53,7 @@
 <a href="https://www.instagram.com/tuanpluss02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuanpluss02" height="30" width="40" /></a>
 </p>
 
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=zvpx9cjp3h574v2gc7av8sbun&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zvpx9cjp3h574v2gc7av8sbun&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zvpx9cjp3h574v2gc7av8sbun&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!---
 Tuanpluss02/Tuanpluss02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
