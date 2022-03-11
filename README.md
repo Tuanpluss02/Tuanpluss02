@@ -60,6 +60,3 @@
 Tuanpluss02/Tuanpluss02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-|a| <!-- empty table header -->
-|:-aa-:| <!-- table header/body separator with center formatting -->
-| I'm centered! | <!-- cell gets column's alignment -->
