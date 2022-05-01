@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tuan Do</h1>
-<h3 align="center">I'm trying to be a Mobile Developer</h3>
+<h3 align="center">I'm trying to be a Flutter Developer</h3>
 <br/>
 
 ## 🙋‍♂️ About Me
