@@ -17,9 +17,8 @@
      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
      <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/188296010-65e9f026-ae0d-444e-ad7c-bda260960d82.png" alt="Dart" width="40" height="40"/> </a>
-     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
      <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/188295899-a6caaa1f-5f3b-4f50-90fa-12099bf9ec54.png" alt="flutter" width="40" height="40"/> </a>
-     
+          <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
  </p>
 <br/>
 
