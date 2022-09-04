@@ -33,7 +33,7 @@
 
 <!--   <br/> -->
 <p align="center">
-<img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/overview.svg">
+<img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/languages.svg">
 </p>
 <!-- <br/> -->
