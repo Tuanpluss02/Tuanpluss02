@@ -32,13 +32,12 @@
 ## 📊 My Github Stats
 
 <!--   <br/> -->
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-<img src="https://github.com/Tuanpluss02/github-stats/blob/master/generated/languages.svg">
-</p> -->
+<p align="center">
+<img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/overview.svg">
+<img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/languages.svg">
+</p>
 <!-- <br/> -->
-![](https://raw.githubusercontent.com/Tuanpluss02/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Tuanpluss02/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 
 ## 🤝Connect with me:
