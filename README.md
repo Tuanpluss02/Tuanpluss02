@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Tuan Do</h1>
 <h3 align="center">I'm trying to be a Flutter Developer</h3>
 <br/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Form+Code+MeLy+with+love%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 ## 🙋‍♂️ About Me
 
 - 💻 **I'm Storm_X.**
 - 👀 **I’m interested in C\C++, Dart and Python language.**
 - 🌱 **I’m currently learning everything.**
 - ✌ **This is my website** [http://stormx.software](https://www.stormx.software)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Form+Code+MeLy+with+love%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 ## 🚀 Languages and Tools:
 
