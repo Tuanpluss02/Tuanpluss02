@@ -31,12 +31,12 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+<!--   <br/> -->
 <p align="center">
 <img src="https://github.com/Tuanpluss02/github-stats/blob/master/generated/overview.svg">
 <img src="https://github.com/Tuanpluss02/github-stats/blob/master/generated/languages.svg">
 </p>
-<br/>
+<!-- <br/> -->
 
 
 ## 🤝Connect with me:
