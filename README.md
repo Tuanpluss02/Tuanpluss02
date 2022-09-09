@@ -17,7 +17,7 @@
 
 <p align="center">
      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/189318516-7906eb93-1af2-4c0c-9515-228f76091368.png" alt="cplusplus" width="40" height="40"/> </a> 
+     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/189319194-55e984e0-f0e5-4d2c-9676-48fc5b2ca815.png" alt="cplusplus" width="40" height="40"/> </a> 
      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
      <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/188296010-65e9f026-ae0d-444e-ad7c-bda260960d82.png" alt="Dart" width="40" height="40"/> </a>
