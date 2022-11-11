@@ -5,6 +5,9 @@
      <a href="https://www.facebook.com/code.mely"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E1AF7&width=435&lines=Form+Code+MeLy+Universe+with+love%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
  </p>
 
+<p align="center">
+    <img src="https://github.com/Tuanpluss02/Tuanpluss02/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ## 🙋‍♂️ About Me
 
