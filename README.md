@@ -14,7 +14,7 @@
 - 💻 **I'm Storm_X.**
 - 👀 **I’m interested in C\C++, Dart and Python language.**
 - 🌱 **I’m currently learning everything.**
-- ✌ **This is my website** [http://stormx.software](https://www.stormx.software)
+- ✌ **This is my website** [https://stormx.software](https://stormx.software/#/)
 
 ## 🚀 Languages and Tools:
 
