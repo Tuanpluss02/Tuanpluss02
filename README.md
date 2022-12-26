@@ -2,7 +2,7 @@
 <h3 align="center">I'm trying to be a Flutter Developer</h3>
 <br/>
 <p align="center">
-     <a href="https://www.facebook.com/code.mely"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E1AF7&width=435&lines=Form+Code+MeLy+Universe+with+love%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+     <a href="https://www.linkedin.com/in/Tuanpluss02/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=8E1AF7F7&width=435&lines=Software+and+cathedrals+are+much+the+same;First+we+build+them%2C+then+we+pray" alt="Typing SVG" /></a>
  </p>
 
 <p align="center">
