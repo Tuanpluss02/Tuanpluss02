@@ -21,11 +21,12 @@
 <p align="center">
      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
      <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/189319194-55e984e0-f0e5-4d2c-9676-48fc5b2ca815.png" alt="cplusplus" width="40" height="40"/> </a> 
+           <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-       <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
      <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/188296010-65e9f026-ae0d-444e-ad7c-bda260960d82.png" alt="Dart" width="40" height="40"/> </a>
      <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/188295899-a6caaa1f-5f3b-4f50-90fa-12099bf9ec54.png" alt="flutter" width="40" height="40"/> </a>
-          <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+         
  </p>
 <br/>
 
@@ -45,7 +46,13 @@
 <img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 <!-- <br/> -->
+ 
 
+## 🎵Relax with Spotify
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=zvpx9cjp3h574v2gc7av8sbun&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true">
+</p>
 
 
 ## 🤝Connect with me:
@@ -56,13 +63,6 @@
 <a href="https://twitter.com/TunPlus3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TunPlus3" height="30" width="40" /></a>    
 <a href="https://www.facebook.com/tuanpluss.stormX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanpluss.stormX" height="30" width="40" /></a>    
 <a href="https://www.instagram.com/tuanpluss02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuanpluss02" height="30" width="40" /></a>
-</p>
- 
-
-## 🎵Music
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=zvpx9cjp3h574v2gc7av8sbun&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true">
 </p>
 
 <!---
