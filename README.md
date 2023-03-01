@@ -10,11 +10,20 @@
 </p>
 
 ## 🙋‍♂️ About Me
-
-- 💻 **I'm Storm_X.**
-- 👀 **I’m interested in C\C++, Dart and Python language.**
-- 🌱 **I’m currently learning everything.**
-- ✌ **This is my website** [https://stormx.software](https://stormx.software/#/)
+```Dart
+Map<String, dynamic> getAboutMe() {
+  return {
+    'basicLanguage': ['C++', 'JavaScript', 'Kotlin'],
+    'mainLanguage': ['Dart', 'Python'],
+    'mobilePlatforms': ['Android', 'iOS'],
+    'frontend': ['Flutter', 'React Native'],
+    'backend': ['Firebase', 'FastAPI'],
+    'database': ['Firestore', 'MongoDB', 'PostgreSQL'],
+    'tools': ['Android Studio', 'Visual Studio Code', 'IntelliJ IDEA'],
+    'learning': ['Mobile Security', 'Push Notifications'],
+  };
+}
+```
 
 ## 🚀 Languages and Tools:
 
