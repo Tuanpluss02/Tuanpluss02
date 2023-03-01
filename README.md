@@ -17,7 +17,7 @@ Map<String, dynamic> getAboutMe() {
     'mainLanguage': ['Dart', 'Python'],
     'mobilePlatforms': ['Android', 'iOS'],
     'frontend': ['Flutter', 'React Native'],
-    'backend': ['Firebase', 'FastAPI'],
+    'backend': ['Firebase', 'FastAPI', 'Docker'],
     'database': ['Firestore', 'MongoDB', 'PostgreSQL'],
     'tools': ['Android Studio', 'Visual Studio Code', 'IntelliJ IDEA'],
     'learning': ['Mobile Security', 'Push Notifications'],
