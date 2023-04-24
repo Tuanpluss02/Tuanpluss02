@@ -25,7 +25,7 @@ Map<String, dynamic> getAboutMe() {
 }
 ```
 
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools:
 
 <p align="center">
      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -37,7 +37,7 @@ Map<String, dynamic> getAboutMe() {
      <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/188295899-a6caaa1f-5f3b-4f50-90fa-12099bf9ec54.png" alt="flutter" width="40" height="40"/> </a>
          
  </p>
-<br/>
+<br/> -->
 
 
 ## 🔥My Github Streak
@@ -64,6 +64,13 @@ Map<String, dynamic> getAboutMe() {
 </p>
 
 
+## 📢Discord
+
+<p align="center">
+<img src="https://lanyard.kyrie25.me/api/696020793573769308">
+</p>
+
+
 ## 🤝Connect with me:
 
 <p align="center">
@@ -73,6 +80,12 @@ Map<String, dynamic> getAboutMe() {
 <a href="https://www.facebook.com/tuanpluss.stormX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanpluss.stormX" height="30" width="40" /></a>    
 <a href="https://www.instagram.com/tuanpluss02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuanpluss02" height="30" width="40" /></a>
 </p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Tuanpluss02&style=flat&color=blueviolet" width="200" height="40">
+</p>
+
 
 <!---
 Tuanpluss02/Tuanpluss02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
