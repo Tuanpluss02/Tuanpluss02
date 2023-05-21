@@ -16,11 +16,11 @@ Map<String, dynamic> getAboutMe() {
     'basicLanguage': ['C++', 'JavaScript', 'Kotlin'],
     'mainLanguage': ['Dart', 'Python'],
     'mobilePlatforms': ['Android', 'iOS'],
-    'frontend': ['Flutter', 'React Native'],
+    'frontend': ['Flutter', 'Vue.js'],
     'backend': ['Firebase', 'FastAPI', 'Docker'],
     'database': ['Firestore', 'MongoDB', 'PostgreSQL'],
     'tools': ['Android Studio', 'Visual Studio Code', 'IntelliJ IDEA'],
-    'learning': ['Mobile Security', 'Push Notifications'],
+    'learning': ['Mobile Security', 'Push Notifications', 'BLoC Pattern'],
   };
 }
 ```
