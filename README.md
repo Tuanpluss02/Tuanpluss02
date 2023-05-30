@@ -69,12 +69,13 @@ Map<String, dynamic> getAboutMe() {
 ## 🤝Connect with me:
 
 <p align="center">
-     <a href="https://www.linkedin.com/in/tuanpluss02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanpluss02" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15892425/tuan-plus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15892425" height="30" width="40" /></a>    
-<a href="https://twitter.com/TunPlus3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TunPlus3" height="30" width="40" /></a>    
-<a href="https://www.facebook.com/tuanpluss.stormX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanpluss.stormX" height="30" width="40" /></a>    
-<a href="https://www.instagram.com/tuanpluss02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuanpluss02" height="30" width="40" /></a>
+     <a href="https://www.linkedin.com/in/tuanpluss02/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="tuanpluss02" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/15892425/tuan-plus" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="15892425" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/TunPlus3" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="TunPlus3" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/tuanpluss02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TuanDo" height="50" width="50"  /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/tuanpluss02/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="tuanpluss02" /></a>
 </p>
+
 
 
 <p align="center">
