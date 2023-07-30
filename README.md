@@ -13,10 +13,10 @@
 ```Dart
 Map<String, dynamic> getAboutMe() {
   return {
-    'basicLanguage': ['C++', 'JavaScript', 'Kotlin'],
+    'basicLanguage': ['C++', 'TypeScript', 'Kotlin'],
     'mainLanguage': ['Dart', 'Python'],
     'mobilePlatforms': ['Android', 'iOS'],
-    'frontend': ['Flutter', 'Vue.js'],
+    'frontend': ['Flutter', 'React'],
     'backend': ['Firebase', 'FastAPI', 'Docker'],
     'database': ['Firestore', 'MongoDB', 'PostgreSQL'],
     'tools': ['Android Studio', 'Visual Studio Code', 'IntelliJ IDEA'],
