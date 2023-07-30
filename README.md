@@ -6,7 +6,7 @@
  </p>
 
 <p align="center">
-    <img src="https://github.com/Tuanpluss02/Tuanpluss02/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/Tuanpluss02/Tuanpluss02/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ## 🙋‍♂️ About Me
