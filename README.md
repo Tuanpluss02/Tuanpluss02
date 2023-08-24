@@ -65,8 +65,9 @@ Map<String, dynamic> getAboutMe() {
 <img src="https://lanyard.kyrie25.me/api/696020793573769308">
 </p>
  -->
-
+<!---
 ## 👁️ Profile Views:
+--->
 <!---
 <p align="center">
      <a href="https://www.linkedin.com/in/tuanpluss02/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="tuanpluss02" /></a>&nbsp;&nbsp;
@@ -77,11 +78,11 @@ Map<String, dynamic> getAboutMe() {
 </p>
 --->
 
-
+<!---
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tuanpluss02&style=flat&color=blueviolet" width="200" height="40">
 </p>
-
+--->
 
 <!---
 Tuanpluss02/Tuanpluss02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
