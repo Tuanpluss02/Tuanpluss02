@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Tuan Do</h1>
-<h3 align="center">I'm trying to be a Mobile Developer</h3>
+<h1 align="center">👋 Hi there, I'm Tuan Do - Mobile Developer</h1>
+<!-- <h3 align="center">I'm a Mobile Developer</h3> -->
 <br/>
 <p align="center">
      <a href="https://www.linkedin.com/in/Tuanpluss02/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=8E1AF7F7&width=435&lines=Software+and+cathedrals+are+much+the+same;First+we+build+them%2C+then+we+pray" alt="Typing SVG" /></a>
