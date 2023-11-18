@@ -13,14 +13,13 @@
 ```Dart
 Map<String, dynamic> getAboutMe() {
   return {
-    'basicLanguage': ['C++', 'TypeScript', 'Kotlin'],
-    'mainLanguage': ['Dart', 'Python'],
-    'mobilePlatforms': ['Android', 'iOS'],
-    'frontend': ['Flutter', 'React'],
-    'backend': ['Firebase', 'FastAPI', 'Docker'],
-    'database': ['Firestore', 'MongoDB', 'PostgreSQL'],
-    'tools': ['Android Studio', 'Visual Studio Code', 'IntelliJ IDEA'],
-    'learning': ['Mobile Security', 'Push Notifications', 'BLoC Pattern'],
+    'basicLanguage': ['C++', 'Python', 'Javascript'],
+    'mainLanguage': ['Dart', 'Kotlin' 'Typescript'],
+    'frontend': ['Flutter', 'Nextjs'],
+    'backend': ['Nestjs', 'Expressjs', 'FastAPI'],
+    'database': ['MongoDB', 'MySQL', 'PostgreSQL'],
+    'tools': ['Android Studio', 'Visual Studio Code'],
+    'learning': ['Mobile Security', 'BLoC Pattern'],
   };
 }
 ```
