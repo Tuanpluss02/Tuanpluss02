@@ -14,7 +14,7 @@
 Map<String, dynamic> getAboutMe() {
   return {
     'basicLanguage': ['C++', 'Python', 'Javascript'],
-    'mainLanguage': ['Dart', 'Kotlin' 'Typescript'],
+    'mainLanguage': ['Dart', 'Java' 'Typescript'],
     'frontend': ['Flutter', 'Nextjs'],
     'backend': ['Nestjs', 'Expressjs', 'FastAPI'],
     'database': ['MongoDB', 'MySQL', 'PostgreSQL'],
