@@ -1,14 +1,17 @@
 <h1 align="center">👋 Hi there, I'm Tuan Do - Mobile Developer</h1>
 <!-- <h3 align="center">I'm a Mobile Developer</h3> -->
+<!--
 <br/>
 <p align="center">
      <a href="https://www.linkedin.com/in/Tuanpluss02/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=8E1AF7F7&width=435&lines=Software+and+cathedrals+are+much+the+same;First+we+build+them%2C+then+we+pray" alt="Typing SVG" /></a>
  </p>
-
+ -->
+ <!--
 <p align="center">
     <img src="https://github.com/Tuanpluss02/Tuanpluss02/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-
+ -->
+ 
 ## 🙋‍♂️ About Me
 ```Dart
 Map<String, dynamic> getAboutMe() {
@@ -33,7 +36,7 @@ Map<String, dynamic> getAboutMe() {
 </p>
  -->
 
-
+<!--
 ## 🔥My Github Streak
 <p align="center">
     <a href="https://github.com/Tuanpluss02/github-readme-streak-stats">
@@ -43,13 +46,11 @@ Map<String, dynamic> getAboutMe() {
 
 ## 📊 My Github Stats
 
-<!--   <br/> -->
 <p align="center">
 <img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/languages.svg#gh-dark-mode-only">
 </p>
-<!-- <br/> -->
- 
+-->
 
 <!-- ## 🎵Relax with Spotify
 
