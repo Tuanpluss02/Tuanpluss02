@@ -16,10 +16,10 @@
 ```Dart
 Map<String, dynamic> getAboutMe() {
   return {
-    'language': ['Dart', 'Java' 'Typescript'],
+    'language': ['Dart', 'Java', 'Typescript'],
     'frontend': ['Flutter', 'Reactjs'],
     'backend': ['Nestjs', 'Expressjs', 'Spring Boot'],
-    'database': ['MongoDB', 'MySQL', 'PostgreSQL'],
+    'database': ['MongoDB', 'MySQL', 'PostgreSQL']
   };
 }
 ```
