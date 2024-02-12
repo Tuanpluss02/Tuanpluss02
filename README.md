@@ -17,7 +17,7 @@
 Map<String, dynamic> getAboutMe() {
   return {
     'language': ['Dart', 'Java', 'Typescript'],
-    'frontend': ['Flutter', 'Reactjs'],
+    'frontend': ['Flutter', 'Nextjs'],
     'backend': ['Nestjs', 'Expressjs', 'Spring Boot'],
     'database': ['MongoDB', 'MySQL', 'PostgreSQL']
   };
