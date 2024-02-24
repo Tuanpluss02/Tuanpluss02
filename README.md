@@ -16,9 +16,9 @@
 ```Dart
 Map<String, dynamic> getAboutMe() {
   return {
-    'language': ['Dart', 'Java', 'Typescript'],
+    'language': ['Dart', 'Java', 'Typescript', 'Python'],
     'frontend': ['Flutter', 'Nextjs'],
-    'backend': ['Nestjs', 'Expressjs', 'Spring Boot'],
+    'backend': ['Nestjs', 'Expressjs', 'Spring Boot', 'FastAPI'],
     'database': ['MongoDB', 'MySQL', 'PostgreSQL']
   };
 }
